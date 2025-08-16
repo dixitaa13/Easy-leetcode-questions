@@ -37,7 +37,7 @@ class Solution {
     }
 }
 
-Solution2:
+Solution2: tc: O(N)  sc: O(N)
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -61,7 +61,7 @@ class Solution {
 }
 
 
-Solution 3: a little short version of solution 2
+Solution 3: a little short version of solution 2 tc: O(N)  sc: O(N)
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
